@@ -1,4 +1,4 @@
-const { LOCALE } = require("../util/EvobotUtil");
+const { LOCALE } = require("./util/BotUtil");
 const i18n = require("i18n");
 
 i18n.setLocale(LOCALE);
